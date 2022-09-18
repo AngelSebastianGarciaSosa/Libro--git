@@ -1,4 +1,4 @@
-## Ejercicios de creacion y actualizacion de repositorios <br>
+## Ejercicios de creacion y actualizacion de repositorios <br> <br>
 ----------------
 ## Ejercicio 1 <br>
 Configurar Git definiendo el nombre del usuario, el correo electrónico y activar el coloreado de la salida. Mostrar la configuración final.
@@ -55,6 +55,50 @@ Capítulo 4: Repositorios remotos
 3. Volver a mostrar los últimos cambios del repositorio.
 ![Imagen](IMAGENES/Tarea1Ejercicio6-1.png)
 ![Imagen](IMAGENES/Tarea1Ejercicio6-2.png)
+
+## Ejercicios de manejo de historial de cambios <br> <br>
+## Ejercicio 1 <br>
+
+
+1. Mostrar el historial de cambios del repositorio.
+2. Crear la carpeta capitulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
+   Git es un sistema de control de versiones ideado por Linus Torvalds.
+3. Añadir los cambios a la zona de intercambio temporal.
+4. Hacer un commit de los cambios con el mensaje “Añadido capítulo 1.”
+5. Volver a mostrar el historial de cambios del repositorio.
+![Imagen](IMAGENES/Tarea2Ejercicio1-1.png)
+![Imagen](IMAGENES/Tarea2Ejercicio1.png)
+## Ejercicio 2 <br>
+1. Crear el fichero capitulo2.txt en la carpeta capitulos con el siguiente texto.
+
+El flujo de trabajo básico con Git consiste en:
+1- Hacer cambios en el repositorio.
+2- Añadir los cambios a la zona de intercambio temporal.
+3- Hacer un commit de los cambios.
+
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 2.”
+4. Mostrar las diferencias entre la última versión y dos versiones anteriores.
+
+![Imagen](IMAGENES/Tarea2Ejercicio2.png)
+
+## Ejercicio 3 <br>
+1. Crear el fichero capitulo3.txt en la carpeta capitulos con el siguiente texto.
+Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 3.”
+4. Mostrar las diferencias entre la primera y la última versión del repositorio.
+![Imagen](IMAGENES/Tarea2Ejercicio3.png)
+![Imagen](IMAGENES/Tarea2Ejercicio3-1.png)
+
+## Ejercicio 4 <br>
+1. Añadir al final del fichero indice.txt la siguiente línea:
+Capítulo 5: Conceptos avanzados
+2. Añadir los cambios a la zona de intercambio temporal.
+3. Hacer un commit de los cambios con el mensaje “Añadido capítulo 5 al índice.”.
+4. Mostrar quién ha hecho cambios sobre el fichero indice.txt.
+![Imagen](IMAGENES/Tarea2Ejercicio4.png)
+
 
 
 
